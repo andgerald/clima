@@ -1,1 +1,1 @@
-deploy:
+deploy:https://gifted-dijkstra-10c306.netlify.app
